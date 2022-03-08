@@ -5,9 +5,15 @@ Then answer in the space below each question:
 
 1. First name
 
+jude 
+
 2. Last name
 
+kuo
+
 3. Favourite animal
+
+penguin
 
 
 Now click the green 'commit changes' button at the bottom.
